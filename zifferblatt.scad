@@ -413,4 +413,4 @@ translate([-45,-230,30]) box_top(95,75);
 //box_top(95,50);
 //neo_fuss();
 //panel_holder();
-klemm_hole();
+//klemm_hole();
